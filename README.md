@@ -1,4 +1,4 @@
-# **Jira Test Case Generator — Spring Boot + Ollama AI Integration**
+# 🧠 **Jira Test Case Generator — Spring Boot + Ollama AI Integration**
 
 Cette application permet de **générer automatiquement des cas de test** à partir des **user stories Jira**.
 Elle combine la puissance de **Spring Boot**, l’intégration **API Jira**, et le modèle d’IA **Ollama** pour produire des cas de test détaillés et cohérents à partir des critères d’acceptation écrits en langage naturel.
